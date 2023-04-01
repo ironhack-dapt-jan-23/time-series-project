@@ -18,8 +18,6 @@ Steps to follow during this project on time series:
 8. Extra Activity: Identification of Factors Affecting Data: Use regression analysis to determine the relationship between your data and variables such as promotions, marketing campaigns, and external factors such as economic conditions. Use techniques such as correlation analysis and regression models to identify the most significant factors affecting your data.
 9. Visualization and Reporting: Present your findings using visualizations such as line charts and scatterplots. Prepare a report summarizing your analysis and recommendations for improving the data. Your report should include your forecasts for future values, the factors affecting the data, and recommendations for improving the data.
 
-Remember, time series analysis requires careful attention to detail and a solid understanding of statistical methods. Ensure you have adequate time and resources to complete the project, and seek help from your instructor or other resources if you encounter challenges. Finally, have fun and enjoy the process of exploring your data and discovering insights!
-
 ## Project ideas  
 We know this is a completely new topic to learn, so below are some project ideas to get started:  
 1. **Stock price forecasting:** Use time series analysis to predict the future prices of a particular stock or a portfolio of stocks. You can use historical stock prices data and apply techniques like moving averages, ARIMA, and exponential smoothing to forecast future prices.  
@@ -27,5 +25,7 @@ We know this is a completely new topic to learn, so below are some project ideas
 3. **Sales forecasting**: Use time series analysis to predict future sales trends and patterns for a particular product or service. You can use historical sales data and apply techniques like exponential smoothing, ARIMA, and trend analysis to forecast future sales.  
 4. **Website traffic analysis**: Use time series analysis to analyze website traffic patterns over time. You can use historical website traffic data and apply techniques like seasonality analysis, trend analysis, and anomaly detection to identify traffic patterns and forecast future traffic.
 5. **Energy consumption forecasting**: Use time series analysis to predict future energy consumption patterns for a particular region. You can use historical energy consumption data and apply techniques like ARIMA, seasonal decomposition, and regression analysis to forecast future energy consumption patterns.
+
+Remember, time series analysis requires careful attention to detail and a solid understanding of statistical methods. Ensure you have adequate time and resources to complete the project, and seek help from your instructor or other resources if you encounter challenges. Finally, have fun and enjoy the process of exploring your data and discovering insights!
 
 P.S. You can kick-start your project by using the shared resources in the [`resources.md`](https://github.com/ironhack-dapt-jan-23/time-series-project/blob/main/resources.md) file. 
