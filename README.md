@@ -15,10 +15,8 @@ Steps to follow during this project on time series:
 5. Use time series plots and other visualization tools to understand the underlying patterns in your data.  
 6. Time series analysis: Use statistical techniques such as moving averages, exponential smoothing, and ARIMA models to identify any underlying factors affecting your data. Perform decomposition analysis to separate the data into its seasonal, trend, and residual components.  
 7. Forecasting: Use time series forecasting techniques such as ARIMA and exponential smoothing to predict future values of your data. Evaluate the accuracy of your forecasts using metrics such as mean squared error (MSE) and mean absolute error (MAE).  
-
 8. **Extra Activity**: Identification of Factors Affecting Data: Use regression analysis to determine the relationship between your data and variables such as promotions, marketing campaigns, and external factors such as economic conditions. Use techniques such as correlation analysis and regression models to identify the most significant factors affecting your data.
-
-9.Visualization and Reporting: Present your findings using visualizations such as line charts and scatterplots. Prepare a report summarizing your analysis and recommendations for improving the data. Your report should include your forecasts for future values, the factors affecting the data, and recommendations for improving the data.
+9. Visualization and Reporting: Present your findings using visualizations such as line charts and scatterplots. Prepare a report summarizing your analysis and recommendations for improving the data. Your report should include your forecasts for future values, the factors affecting the data, and recommendations for improving the data.
 
 Remember, time series analysis requires careful attention to detail and a solid understanding of statistical methods. Ensure you have adequate time and resources to complete the project, and seek help from your instructor or other resources if you encounter challenges. Finally, have fun and enjoy the process of exploring your data and discovering insights!
 
