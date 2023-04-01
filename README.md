@@ -19,3 +19,5 @@ Steps to follow during this project on time series:
 **Visualization and Reporting**: Present your findings using visualizations such as line charts and scatterplots. Prepare a report summarizing your analysis and recommendations for improving the data. Your report should include your forecasts for future values, the factors affecting the data, and recommendations for improving the data.
 
 Remember, time series analysis requires careful attention to detail and a solid understanding of statistical methods. Ensure you have adequate time and resources to complete the project, and seek help from your instructor or other resources if you encounter challenges. Finally, have fun and enjoy the process of exploring your data and discovering insights!
+
+P.S. You can kick-start your project by using the shared resources in the [`resources.md`](https://github.com/ironhack-dapt-jan-23/time-series-project/blob/main/resources.md) file. 
