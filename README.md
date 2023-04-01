@@ -4,7 +4,7 @@ Time series analysis is the study of data points that are collected over time, t
 
 Steps to follow during this project on time series:  
 
-1. Identify a suitable data set: Look for a data set that contains time-stamped data points, such as weekly or daily sales, stock prices, or weather data. The data set should cover a sufficient period to allow for time series analysis and forecasting. Examples of dataset you can use are this one  (https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data) with climate data or this one that is about house property sales (https://www.kaggle.com/datasets/htagholdings/property-sales).  
+1. Identify a suitable data set: Look for a data set that contains time-stamped data points, such as weekly or daily sales, stock prices, or weather data. The data set should cover a sufficient period to allow for time series analysis and forecasting. Examples of dataset you can use are [this one](https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data) with climate data or [this one](https://www.kaggle.com/datasets/htagholdings/property-sales) that is about house property sales.  
 2. Data cleaning and preparation: Clean and prepare your data by removing any missing or erroneous data points.  
 3. Transform the data into a format suitable for analysis.  
 4. Exploratory Data Analysis (EDA): Perform exploratory data analysis to visualize the data and identify any trends or patterns. 
