@@ -1,3 +1,5 @@
+![logo](https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/84/original/logo-ironhack-blue.png)
+
 # Instructions
 
 Time series analysis is the study of data points that are collected over time, typically at regular intervals. It can help businesses understand trends and patterns in their data to make informed decisions. In this project, we will be analyzing time series data from a retail store to understand its sales patterns, forecast future sales, and identify any underlying factors affecting sales.
